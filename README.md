@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> Outline a brief description of your project.
+> A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
 
 ## Table of Contents
@@ -11,12 +11,16 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Technologies Used
+- Python 3.9.6
+- Jupiter Notenook 6.4.12
+- SciKit Learn 1.1.1
+- Statsmodels 0.13.2
+
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -27,10 +31,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
