@@ -80,7 +80,7 @@ But, here is a catch for you!
 
 
 ## Contact
-Created by [Sun0023@githubusername] - feel free to contact me!
+Created by [@Sun0023] - feel free to contact me!
 
 
 <!-- Optional -->
